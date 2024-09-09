@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/NilEra-K/count.svg)
+I'm an ordinary person who loves programming. I'm currently interning at Inspur.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilEra-K)](https://github.com/NilEra-K/github-readme-stats)
-
-![NilEra-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilEra-K&show_icons=true&theme=tokyonight)
